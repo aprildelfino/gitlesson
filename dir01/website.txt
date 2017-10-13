@@ -3,3 +3,5 @@ Line 2 more stuff
 Line 3 even more stuff
 Line 4 Adding
 Line 5 More Adding
+Line 6 I'm in a branch
+Line 7 It be a different than the master branch
